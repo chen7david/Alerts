@@ -1,0 +1,21 @@
+{
+  "name": "messages",
+  "version": "1.0.0",
+  "description": "Helps create uniform messages with muli-lingual support",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Messages"
+  ],
+  "author": "David M.Chen",
+  "license": "MIT",
+  "dependencies": {
+    "knex": "^0.19.1",
+    "lodash": "^4.17.15",
+    "objection": "^1.6.9",
+    "pg": "^7.12.0",
+    "pluralize": "^8.0.0"
+  }
+}
