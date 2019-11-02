@@ -12,7 +12,7 @@
   "author": "David M.Chen",
   "license": "MIT",
   "dependencies": {
-    "knex": "^0.19.1",
+    "knex": "^0.19.5",
     "lodash": "^4.17.15",
     "objection": "^1.6.9",
     "pg": "^7.12.0",
